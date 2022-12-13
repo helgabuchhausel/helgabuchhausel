@@ -9,8 +9,6 @@
 - Open for hire
   
 - Learning Python
-  
-- Cats and horror
 
 <br>
   
