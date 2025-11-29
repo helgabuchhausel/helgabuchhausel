@@ -4,11 +4,6 @@
 <img align='right' src="https://github.com/helgabuchhausel/helgabuchhausel/blob/main/morticia.gif" width="230">
 
 
-- Computer Science Student
-  
-- Open for hire
-  
-- Learning Python
 
 <br>
   
